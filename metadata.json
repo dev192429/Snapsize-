@@ -1,0 +1,5 @@
+{
+  "name": "SnapSize - Pro Photo Resizer",
+  "description": "A clean, fast, and private client-side image resizing tool for mobile and desktop. Resize photos by dimensions or percentage with aspect ratio locking.",
+  "requestFramePermissions": []
+}
